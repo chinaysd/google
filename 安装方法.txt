@@ -1,0 +1,4 @@
+lncn.org 免费的机场
+69.194.14.16 lncn.org
+C:\Windows\System32\drivers\etc
+hosts 文件添加上面那行
